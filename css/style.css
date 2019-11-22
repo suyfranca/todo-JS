@@ -6,7 +6,7 @@
 
 html, body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: 	#FFF5EE;
+  background-color: 	#D4E2FF;
   height: 100%;
 }
 
@@ -25,8 +25,9 @@ main {
 }
 
 header h1 {
+  color: #fff;
   padding: 15px;
-  background-color: rgb(248, 165, 106);
+  background-color: #445880;
   box-shadow: 0 3px 3px rgba(0, 0, 0, 0.30);
 }
 
@@ -54,11 +55,13 @@ header h1 {
 }
 
 .footer {
-  background-color: rgb(231, 182, 146);
-  ;
+  background-color: #A9B5CC;
+  font-size: 12px;
   color: white;
   min-height: 50px;
   padding: 0 20px;
+
   display: flex;
   align-items: center;
+  justify-content: center;
 }
